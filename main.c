@@ -29,7 +29,7 @@ int  main()
 		temp = 0;
 		break;
 	default:
-		printf("chois not found....\n");
+		printf("choise not found....\n");
 	
 	}
 	}
