@@ -38,6 +38,16 @@ in the big matrix!!!.)
 7. Prints the maximum matrix and its sum (obtained from the function in the previous section)
 8. If there is more than one submatrix with a maximum sum, the first one must be printed
 found
+## color game 
+* Given a board [ROWS][COLS] matrix initialized to 0.
+dataCOLORS colors.
+* Each color gets a number. The first color gets the number 1.
+* Each color starts from one square in the matrix, a square drawn in advance. according to the established order.
+* Color spreads every time one frame further from this slot if the slot is not already occupied. 0 indicates
+Because the slot is not taken.
+* The order of spread of the colors in the matrix according to their number.
+* In a certain turn each color spreads in order. That is, in the case of 3 colors, a turn is a spread of three
+the colors
 ## how to run
 * clone this project into a LINUX system
 ```console
